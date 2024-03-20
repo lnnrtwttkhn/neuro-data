@@ -1,3 +1,4 @@
 092e1176-5341-4a75-87fb-870d0ab5ec02 chunk=50MiB encryption=none externaltype=rclone name=keeper prefix=git-annex rclone_layout=lower target=neuro-data type=external timestamp=1710932807s
 625c654f-972a-4aad-b8d1-63527c37ae08 encryption=none exporttree=yes name=owncloud-gwdg-storage type=webdav url=https://owncloud.gwdg.de/remote.php/nonshib-webdav/neuro-data timestamp=1710933381s
 96baea8d-39c5-4b83-aa9f-f7960c81afd0 doi=doi:10.17617/3.8LDVXK encryption=none exporttree=yes externaltype=dataverse name=dataverse-storage type=external url=https://edmond.mpg.de/ timestamp=1710932991s
+b710c6a1-c971-45fc-b7f5-62e1642d7687 autoenable=true location=https://gin.g-node.org/lnnrtwttkhn/neuro-data name=gin-src type=git timestamp=1710936189s
