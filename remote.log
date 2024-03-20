@@ -1,0 +1,1 @@
+092e1176-5341-4a75-87fb-870d0ab5ec02 chunk=50MiB encryption=none externaltype=rclone name=keeper prefix=git-annex rclone_layout=lower target=neuro-data type=external timestamp=1710932807s
